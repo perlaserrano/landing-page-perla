@@ -66,10 +66,10 @@ ul{
 }
 
 .menu-btn{
-    position: absolute;
+    /* position: absolute; */
     cursor: pointer;
-    top: 19px;
-    right: 21px;
+    /* top: 19px; */
+    /* right: 21px; */
     display: none;
     z-index: 2;
     
